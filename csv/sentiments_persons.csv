@@ -1,12 +1,20 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Jalan Tun Sardon,Jalan Tun Sardon,PERSON,0.04974747474747474,0.2565656565656566,en,6
 Ace Frehley,Ace Frehley,PERSON,-0.008333333333333337,0.44666666666666666,en,5
-Vi Lyles,Vi Lyles,PERSON,0.4,0.475,en,2
+Bukit Baru,Bukit Baru,PERSON,0.11212121212121212,0.3654040404040404,en,3
+GEORGE TOWN,GEORGE TOWN,PERSON,-0.02500000000000001,0.11250000000000002,en,2
 Terrie Donovan,Terrie Donovan,PERSON,0.4,0.475,en,2
+Vi Lyles,Vi Lyles,PERSON,0.4,0.475,en,2
+Cira Gonzalez,Cira Gonzalez,PERSON,-0.08,0.12333333333333334,en,2
 Gavin Newsom,Gavin Newsom,PERSON,0.0,0.0,en,2
-Gene Simmons,Gene Simmons,PERSON,-0.20833333333333334,0.6166666666666667,en,1
-Paul Stanley,Paul Stanley,PERSON,-0.20833333333333334,0.6166666666666667,en,1
+Johanna Wagstaffe,Johanna Wagstaffe,PERSON,0.5,0.625,en,1
+Jln Tun Sardon,Jln Tun Sardon,PERSON,0.0,0.1,en,1
 Vlad Duthiers,Vlad Duthiers,PERSON,0.0,0.0,en,1
+Zairil Khir Johari,Zairil Khir Johari,PERSON,0.0,0.0,en,1
+Cyclone Montha,Cyclone Montha,PERSON,-0.1,0.45,en,1
 PETALING JAYA,PETALING JAYA,PERSON,0.0,0.55,en,1
 Teik Hua,Teik Hua,PERSON,0.0,0.0,en,1
 Vinod Ghimire,Vinod Ghimire,PERSON,0.09017857142857144,0.4357142857142857,en,1
 Iryna Zarutska,Iryna Zarutska,PERSON,0.3,0.2,en,1
+Paul Stanley,Paul Stanley,PERSON,-0.20833333333333334,0.6166666666666667,en,1
+Gene Simmons,Gene Simmons,PERSON,-0.20833333333333334,0.6166666666666667,en,1

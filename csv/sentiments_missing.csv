@@ -1,39 +1,56 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Thursday,Thursday,DATE,,,en,5
 two,two,CARDINAL,,,en,4
+last week,last week,DATE,,,en,4
 Republican,Republican,NORP,,,en,3
-five,five,CARDINAL,,,en,2
-Wildwood Road,Wildwood Road,FAC,,,en,2
-the last six months,the last six months,DATE,,,en,2
-one,one,CARDINAL,,,en,2
-evening,evening,TIME,,,en,2
-more than 70%,more than 70%,PERCENT,,,en,2
-Tuesday,Tuesday,DATE,,,en,2
-last week,last week,DATE,,,en,2
+Hurricane Melissa,Hurricane Melissa,EVENT,,,en,3
+one,one,CARDINAL,,,en,3
+six,six,CARDINAL,,,en,3
 More than 40,More than 40,CARDINAL,,,en,2
 Democratic,Democratic,NORP,,,en,2
-The BP Highway,The BP Highway,FAC,,,en,2
+Tuesday,Tuesday,DATE,,,en,2
+ten,ten,CARDINAL,,,en,2
+five,five,CARDINAL,,,en,2
+evening,evening,TIME,,,en,2
+more than 70%,more than 70%,PERCENT,,,en,2
+last night,last night,TIME,,,en,2
 the Prithvi Highway,the Prithvi Highway,FAC,,,en,2
 Two,Two,CARDINAL,,,en,2
-6 am this morning,6 am this morning,TIME,,,en,2
+37,37,CARDINAL,,,en,2
 the Hetauda-Kathmandu road,the Hetauda-Kathmandu road,FAC,,,en,2
-Kagbeni,Kagbeni,NORP,,,en,2
-last night,last night,TIME,,,en,2
+The BP Highway,The BP Highway,FAC,,,en,2
 night,night,TIME,,,en,2
-ten,ten,CARDINAL,,,en,2
-Months,Months,DATE,,,en,1
+6 am this morning,6 am this morning,TIME,,,en,2
+Kagbeni,Kagbeni,NORP,,,en,2
+the last six months,the last six months,DATE,,,en,2
+Saturday,Saturday,DATE,,,en,2
+129,129,CARDINAL,,,en,2
+21,21,CARDINAL,,,en,2
+Wildwood Road,Wildwood Road,FAC,,,en,2
+at least dozens,at least dozens,CARDINAL,,,en,2
+October 24,October 24,DATE,,,en,2
+about a dozen,about a dozen,CARDINAL,,,en,2
+Muglin,Muglin,NORP,0.016666666666666677,0.5,en,1
 Democrats,Democrats,NORP,,,en,1
 50,50,CARDINAL,,,en,1
-lap days,lap days,DATE,,,en,1
 Dems,Dems,NORP,,,en,1
-Road Closed,Road Closed,WORK_OF_ART,,,en,1
-Five,Five,CARDINAL,,,en,1
-Narayangadh-Muglin Road Reopens After Landslide,Narayangadh-Muglin Road Reopens After Landslide,FAC,,,en,1
-around 5:10 p.m.,around 5:10 p.m.,TIME,,,en,1
-Muglin,Muglin,NORP,0.016666666666666677,0.5,en,1
+lap days,lap days,DATE,,,en,1
 Democrat,Democrat,NORP,,,en,1
-three days,three days,DATE,,,en,1
-74 years old,74 years old,DATE,,,en,1
-Bakaiya Rural Municipa,Bakaiya Rural Municipa,FAC,,,en,1
+around 5:10 p.m.,around 5:10 p.m.,TIME,,,en,1
+Road Closed,Road Closed,WORK_OF_ART,,,en,1
+Narayangadh-Muglin Road Reopens After Landslide,Narayangadh-Muglin Road Reopens After Landslide,FAC,,,en,1
+Months,Months,DATE,,,en,1
+at least 37,at least 37,CARDINAL,,,en,1
 Nepal,Nepal,NORP,0.0,0.0,en,1
+Five,Five,CARDINAL,,,en,1
+Bakaiya Rural Municipa,Bakaiya Rural Municipa,FAC,,,en,1
+three days,three days,DATE,,,en,1
+"Friday,","Friday,",DATE,,,en,1
+Friday,Friday,DATE,,,en,1
+three,three,CARDINAL,,,en,1
+Wednesday,Wednesday,DATE,,,en,1
+dozens,dozens,CARDINAL,,,en,1
+38 metres,38 metres,QUANTITY,,,en,1
+2007,2007,DATE,,,en,1
+74 years old,74 years old,DATE,,,en,1
 Four days,Four days,DATE,,,en,1

@@ -1,21 +1,31 @@
 ,phrase,label,sentiment,subjectivity,language,count
-HETAUDA,HETAUDA,ORG,0.04833333333333333,0.17500000000000002,en,3
 BP Highway Reopens,BP Highway Reopens,ORG,-0.09375,0.28125,en,3
+HETAUDA,HETAUDA,ORG,0.04833333333333333,0.17500000000000002,en,3
 The Narayangadh-Muglin road,The Narayangadh-Muglin road,ORG,0.05833333333333334,0.2,en,2
 the Bharatpur Road Division,the Bharatpur Road Division,ORG,0.0,0.0,en,2
-Rock Legends,Rock Legends,ORG,0.0,0.0,en,1
-Nepal Police,Nepal Police,ORG,0.09017857142857144,0.0,en,1
+IMD,IMD,ORG,-0.1,0.225,en,2
+Kathmandu Good,Kathmandu Good,ORG,0.875,0.0,en,1
 slidi,slidi,ORG,-0.1125,0.0,en,1
 PennDOT,PennDOT,ORG,-0.1125,0.0,en,1
 Narayangadh-Muglin Road Reopens After Landslide:,Narayangadh-Muglin Road Reopens After Landslide:,ORG,0.6375,0.0,en,1
 Narayangadh-Muglin Road Reopens,Narayangadh-Muglin Road Reopens,ORG,0.0,0.0,en,1
 MuglinNarayangadh,MuglinNarayangadh,ORG,0.016666666666666677,0.0,en,1
+Nepal Police,Nepal Police,ORG,0.09017857142857144,0.0,en,1
 the District Police Office,the District Police Office,ORG,-0.022222222222222216,0.0,en,1
-CBS News',CBS News',ORG,0.0,0.0,en,1
 Prithvi Highway,Prithvi Highway,ORG,0.0,0.0,en,1
 Assoc,Assoc,ORG,0.0,0.0,en,1
 Makawanpur,Makawanpur,ORG,0.03785714285714285,0.0,en,1
-Kathmandu Good,Kathmandu Good,ORG,0.875,0.0,en,1
+AP,AP,ORG,0.215,0.0,en,1
+thousa,thousa,ORG,0.215,0.0,en,1
 CDO,CDO,ORG,0.0,0.0,en,1
+The India Meteorological Department,The India Meteorological Department,ORG,-0.1,0.0,en,1
+BALIK PULAU,BALIK PULAU,ORG,0.009090909090909087,0.0,en,1
+Penan,Penan,ORG,0.25,0.0,en,1
+Foota,Foota,ORG,0.0,0.0,en,1
+CBC,CBC,ORG,0.5,0.0,en,1
 CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.0,0.0,en,1
+CBS News',CBS News',ORG,0.0,0.0,en,1
+Rock Legends,Rock Legends,ORG,0.0,0.0,en,1
+Gonzal,Gonzal,ORG,0.0,0.0,en,1
+Mexico Need Food,Mexico Need Food,ORG,0.5,0.0,en,1
 Newsom,Newsom,ORG,0.0,0.0,en,1
