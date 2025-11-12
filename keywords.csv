@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'landslide protection',en,Adaptation,#0000ff,#0000ff,2,0.5
+'landslide protection',en,Adaptation,#0000ff,#0000ff,3,0.4512733172222222
 'landslide',en,Hazard,#ff0000,#ff0000,2,0.439053719090909
 'landslide death',en,Impacts,#ffff00,#ffff00,3,0.436528729
 'rockfall',en,Hazard,#ff0000,#ff0000,1,0.425000255
