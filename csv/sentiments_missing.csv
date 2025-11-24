@@ -1,171 +1,179 @@
 ,phrase,label,sentiment,subjectivity,language,count
+two,two,CARDINAL,,,en,22.199999999999996
 Monday,Monday,DATE,,,en,19.4
-two,two,CARDINAL,,,en,14.100000000000003
-21,21,CARDINAL,,,en,10.000000000000002
+Thursday,Thursday,DATE,,,en,11.000000000000002
+21,21,CARDINAL,,,en,10.900000000000002
+Friday,Friday,DATE,,,en,9.200000000000001
+three,three,CARDINAL,,,en,9.100000000000001
 at least 18,at least 18,CARDINAL,,,en,8.200000000000001
+five,five,CARDINAL,,,en,7.500000000000001
 2,2,CARDINAL,,,en,7.400000000000001
-Friday,Friday,DATE,,,en,7.400000000000001
-three,three,CARDINAL,,,en,7.300000000000001
 last week,last week,DATE,,,en,6.500000000000001
-Thursday,Thursday,DATE,,,en,6.5
+Tuesday,Tuesday,DATE,,,en,6.400000000000001
 at least two,at least two,CARDINAL,,,en,6.4
 six,six,CARDINAL,,,en,6.4
-Tuesday,Tuesday,DATE,,,en,5.500000000000001
+23,23,CARDINAL,,,en,5.5
 1.4 million,1.4 million,CARDINAL,,,en,5.5
+2025,2025,CARDINAL,,,en,5.000000000000001
+Saturday,Saturday,DATE,,,en,4.8
 Sunday,Sunday,DATE,,,en,4.6
-more than a million,more than a million,CARDINAL,,,en,4.6
 at least four,at least four,CARDINAL,,,en,4.6
+more than a million,more than a million,CARDINAL,,,en,4.6
+first,first,ORDINAL,,,en,4.4
 one,one,CARDINAL,,,en,4.4
-more than 1.4 million,more than 1.4 million,CARDINAL,,,en,3.6999999999999997
-18,18,CARDINAL,,,en,3.6999999999999997
-at least eight,at least eight,CARDINAL,,,en,3.6999999999999997
+11,11,CARDINAL,,,en,3.8
+30,30,CARDINAL,,,en,3.8
+days,days,DATE,,,en,3.6999999999999997
 19,19,CARDINAL,,,en,3.6999999999999997
+12,12,CARDINAL,,,en,3.6999999999999997
 Irish,Irish,NORP,,,en,3.6999999999999997
-first,first,ORDINAL,,,en,3.5000000000000004
-dozens,dozens,CARDINAL,,,en,3.5000000000000004
+at least eight,at least eight,CARDINAL,,,en,3.6999999999999997
+18,18,CARDINAL,,,en,3.6999999999999997
+more than 1.4 million,more than 1.4 million,CARDINAL,,,en,3.6999999999999997
+Nitish,Nitish,NORP,,,en,3.6999999999999997
 Democrat,Democrat,NORP,,,en,3.5000000000000004
+dozens,dozens,CARDINAL,,,en,3.5000000000000004
 a fall earlier this year,a fall earlier this year,DATE,,,en,3.4000000000000004
+5,5,CARDINAL,,,en,3.3000000000000003
 Hurricane Melissa,Hurricane Melissa,EVENT,,,en,3.100000000000002
+Republicans,Republicans,NORP,,,en,3.0
 night,night,TIME,,,en,3.0
-Saturday,Saturday,DATE,,,en,3.0
 4,4,CARDINAL,,,en,2.9
 Two,Two,CARDINAL,,,en,2.9
-450,450,CARDINAL,,,en,2.8
+6,6,CARDINAL,,,en,2.8
 Oct 31,Oct 31,DATE,,,en,2.8
-Nitish,Nitish,NORP,,,en,2.8
+the week,the week,DATE,,,en,2.8
+Three,Three,CARDINAL,,,en,2.8
 Hongqi Bridge,Hongqi Bridge,FAC,,,en,2.8
 8,8,CARDINAL,,,en,2.8
+450,450,CARDINAL,,,en,2.8
+the weekend,the weekend,DATE,,,en,2.8
+at least 11,at least 11,CARDINAL,,,en,2.8
+afternoon,afternoon,TIME,,,en,2.8
+16,16,CARDINAL,,,en,2.8
 2020,2020,DATE,,,en,2.8
+Himalayan,Himalayan,NORP,,,en,2.8
 at least 21,at least 21,CARDINAL,,,en,2.8
-6,6,CARDINAL,,,en,2.8
-the week,the week,DATE,,,en,2.8
-2025,2025,CARDINAL,,,en,2.3000000000000003
+10th,10th,ORDINAL,,,en,2.8
+one-year,one-year,DATE,,,en,2.8
 last weeks,last weeks,DATE,,,en,2.1
+3,3,CARDINAL,,,en,2.1
 64,64,CARDINAL,,,en,2.000000000000001
-11,11,CARDINAL,,,en,2.0
-17,17,CARDINAL,,,en,1.9
+today,today,DATE,,,en,2.0
+eight,eight,CARDINAL,,,en,1.9
 Oct 23,Oct 23,DATE,,,en,1.9
 6pm this Saturday,6pm this Saturday,TIME,,,en,1.9
+earlier this year,earlier this year,DATE,,,en,1.9
+morning,morning,TIME,,,en,1.9
+Indian,Indian,NORP,,,en,1.9
+"the night of November 13, 1985","the night of November 13, 1985",TIME,,,en,1.9
+election day,election day,DATE,,,en,1.9
+2018,2018,DATE,,,en,1.9
+17,17,CARDINAL,,,en,1.9
+Colorgate,Colorgate,WORK_OF_ART,,,en,1.9
 a dozen,a dozen,CARDINAL,,,en,1.9
 a day,a day,DATE,,,en,1.9
-Sunday evening,Sunday evening,TIME,,,en,1.9
-election day,election day,DATE,,,en,1.9
-half,half,CARDINAL,,,en,1.9
-"the night of November 13, 1985","the night of November 13, 1985",TIME,,,en,1.9
-eight,eight,CARDINAL,,,en,1.9
-Thousands,Thousands,CARDINAL,,,en,1.9
-Italian,Italian,NORP,,,en,1.9
-more than 40%,more than 40%,PERCENT,,,en,1.9
-afternoon,afternoon,TIME,,,en,1.9
-Indian,Indian,NORP,,,en,1.9
-Argentinian,Argentinian,NORP,,,en,1.9
 31.7%,31.7%,PERCENT,,,en,1.9
-earlier this year,earlier this year,DATE,,,en,1.9
-Colorgate,Colorgate,WORK_OF_ART,,,en,1.9
-the fifth day,the fifth day,DATE,,,en,1.9
+more than 40%,more than 40%,PERCENT,,,en,1.9
+half,half,CARDINAL,,,en,1.9
+Argentinian,Argentinian,NORP,,,en,1.9
+Thousands,Thousands,CARDINAL,,,en,1.9
+Sunday evening,Sunday evening,TIME,,,en,1.9
+28,28,CARDINAL,,,en,1.9
 Nov. 17,Nov. 17,DATE,,,en,1.9
-days,days,DATE,,,en,1.9
-2018,2018,DATE,,,en,1.9
+One,One,CARDINAL,,,en,1.9
+Vlasic,Vlasic,PRODUCT,0.6,0.8,en,1.9
+the fifth day,the fifth day,DATE,,,en,1.9
+Ukrainian,Ukrainian,NORP,,,en,1.9
+Nov 20,Nov 20,DATE,,,en,1.9
+JAKARTA,JAKARTA,WORK_OF_ART,0.17324561403508773,0.4736842105263158,en,1.9
+Italian,Italian,NORP,,,en,1.9
 Wednesday,Wednesday,DATE,,,en,1.6000000000000005
 Democrats,Democrats,NORP,,,en,1.6000000000000005
 Tanzanian,Tanzanian,NORP,,,en,1.5000000000000004
 Mexican,Mexican,NORP,,,en,1.5000000000000004
-5,5,CARDINAL,,,en,1.5000000000000004
 65,65,CARDINAL,,,en,1.4000000000000004
 25,25,CARDINAL,,,en,1.4000000000000004
-a year,a year,DATE,,,en,1.3000000000000003
-last week’s,last week’s,DATE,,,en,1.3000000000000003
-2024,2024,DATE,,,en,1.3000000000000003
-This year,This year,DATE,,,en,1.3000000000000003
 thousands,thousands,CARDINAL,,,en,1.3000000000000003
-3,3,CARDINAL,,,en,1.2000000000000002
-Democratic,Democratic,NORP,,,en,1.2000000000000002
-last week's,last week's,DATE,,,en,1.2000000000000002
-at least dozens,at least dozens,CARDINAL,,,en,1.2000000000000002
-Dozens,Dozens,CARDINAL,,,en,1.2000000000000002
-October 29,October 29,DATE,,,en,1.2000000000000002
-Halloween,Halloween,DATE,,,en,1.2000000000000002
-five,five,CARDINAL,,,en,1.2000000000000002
-fourth,fourth,ORDINAL,,,en,1.2000000000000002
+a year,a year,DATE,,,en,1.3000000000000003
+This year,This year,DATE,,,en,1.3000000000000003
+2024,2024,DATE,,,en,1.3000000000000003
+last week’s,last week’s,DATE,,,en,1.3000000000000003
 Nazis,Nazis,NORP,,,en,1.2000000000000002
-Today,Today,DATE,,,en,1.2000000000000002
 Catholic,Catholic,NORP,,,en,1.2000000000000002
-Republicans,Republicans,NORP,,,en,1.2000000000000002
+last week's,last week's,DATE,,,en,1.2000000000000002
+Today,Today,DATE,,,en,1.2000000000000002
+Rabbi,Rabbi,NORP,,,en,1.2000000000000002
+at least dozens,at least dozens,CARDINAL,,,en,1.2000000000000002
+October 29,October 29,DATE,,,en,1.2000000000000002
+Dozens,Dozens,CARDINAL,,,en,1.2000000000000002
+Democratic,Democratic,NORP,,,en,1.2000000000000002
+fourth,fourth,ORDINAL,,,en,1.2000000000000002
 November,November,DATE,,,en,1.2000000000000002
 Nepali,Nepali,NORP,,,en,1.2000000000000002
-Rabbi,Rabbi,NORP,,,en,1.2000000000000002
-Argentine,Argentine,NORP,,,en,1.1
-"292,000","292,000",MONEY,,,en,1.1
-the Lasti-Beni,the Lasti-Beni,FAC,,,en,1.1
-the past week,the past week,DATE,,,en,1.1
-30,30,CARDINAL,,,en,1.1
-Nov 12,Nov 12,DATE,,,en,1.1
-2026,2026,DATE,,,en,1.1
-Jan. 6,Jan. 6,DATE,,,en,1.1
-decades,decades,DATE,,,en,1.1
-This week,This week,DATE,,,en,1.1
-50,50,CARDINAL,,,en,1.1
-three years,three years,DATE,,,en,1.1
-Kaligandaki Corridor,Kaligandaki Corridor,FAC,,,en,1.1
-this week,this week,DATE,,,en,1.1
-more than 97%,more than 97%,PERCENT,,,en,1.1
-the weeks,the weeks,DATE,,,en,1.1
-Jewish,Jewish,NORP,,,en,1.1
-Dutch,Dutch,NORP,,,en,1.1
-Chinese,Chinese,NORP,,,en,1.1
-185mph,185mph,QUANTITY,,,en,1.1
-second,second,ORDINAL,,,en,1.1
-60,60,CARDINAL,,,en,1.1
-two years ago,two years ago,DATE,,,en,1.1
-Fifteen minutes,Fifteen minutes,TIME,,,en,1.1
-annual,annual,DATE,,,en,1.1
-one-half,one-half,CARDINAL,,,en,1.1
-Jews,Jews,NORP,,,en,1.1
-64 Monday,64 Monday,DATE,,,en,1.1
-October,October,DATE,,,en,1.1
-Nov 7,Nov 7,DATE,,,en,1.1
-today,today,DATE,,,en,1.1
-American,American,NORP,,,en,1.1
-an end this week,an end this week,DATE,,,en,1.1
-just hours,just hours,TIME,,,en,1.1
-twelve,twelve,CARDINAL,,,en,1.1
-Nazi,Nazi,NORP,,,en,1.1
-35th,35th,ORDINAL,,,en,1.1
-the day,the day,DATE,,,en,1.1
-Virginians,Virginians,NORP,,,en,1.1
-PM,PM,TIME,,,en,1.1
+Halloween,Halloween,DATE,,,en,1.2000000000000002
 four,four,CARDINAL,,,en,1.1
+decades,decades,DATE,,,en,1.1
+185mph,185mph,QUANTITY,,,en,1.1
+PM,PM,TIME,,,en,1.1
+50,50,CARDINAL,,,en,1.1
+"292,000","292,000",MONEY,,,en,1.1
+an end this week,an end this week,DATE,,,en,1.1
+Jews,Jews,NORP,,,en,1.1
 January 2024,January 2024,DATE,,,en,1.1
-Himalayan,Himalayan,NORP,,,en,1.0
-Republican,Republican,NORP,,,en,1.0
-Super Typhoon Fung-wong,Super Typhoon Fung-wong,EVENT,,,en,1.0
-Himalayas,Himalayas,NORP,-0.2,0.3,en,1.0
-1 million,1 million,CARDINAL,,,en,1.0
-30th,30th,ORDINAL,,,en,1.0
-November 25th,November 25th,DATE,,,en,1.0
-modern-day,modern-day,DATE,,,en,1.0
-Conference of Parties,Conference of Parties,EVENT,,,en,1.0
-90%,90%,PERCENT,,,en,1.0
-November 4,November 4,DATE,,,en,1.0
-"October 22, 2025","October 22, 2025",DATE,,,en,1.0
-Jihadists,Jihadists,NORP,,,en,1.0
-about 60%,about 60%,PERCENT,,,en,1.0
-more than 1 million,more than 1 million,CARDINAL,,,en,1.0
-August von Galen,August von Galen,DATE,,,en,1.0
-around 5:10 p.m.,around 5:10 p.m.,TIME,,,en,1.0
-Narayangadh-Muglin Road Reopens After Landslide,Narayangadh-Muglin Road Reopens After Landslide,FAC,,,en,1.0
-This Sunday,This Sunday,DATE,,,en,1.0
+more than 97%,more than 97%,PERCENT,,,en,1.1
+Dutch,Dutch,NORP,,,en,1.1
+35th,35th,ORDINAL,,,en,1.1
+Jewish,Jewish,NORP,,,en,1.1
+This week,This week,DATE,,,en,1.1
+second,second,ORDINAL,,,en,1.1
+the weeks,the weeks,DATE,,,en,1.1
+two years ago,two years ago,DATE,,,en,1.1
+three years,three years,DATE,,,en,1.1
+Virginians,Virginians,NORP,,,en,1.1
+October,October,DATE,,,en,1.1
+the day,the day,DATE,,,en,1.1
+2026,2026,DATE,,,en,1.1
+Nov 12,Nov 12,DATE,,,en,1.1
+annual,annual,DATE,,,en,1.1
+Nazi,Nazi,NORP,,,en,1.1
+the Lasti-Beni,the Lasti-Beni,FAC,,,en,1.1
+60,60,CARDINAL,,,en,1.1
+Kaligandaki Corridor,Kaligandaki Corridor,FAC,,,en,1.1
+Chinese,Chinese,NORP,,,en,1.1
+Fifteen minutes,Fifteen minutes,TIME,,,en,1.1
+one-half,one-half,CARDINAL,,,en,1.1
+twelve,twelve,CARDINAL,,,en,1.1
+this week,this week,DATE,,,en,1.1
+just hours,just hours,TIME,,,en,1.1
+American,American,NORP,,,en,1.1
+Nov 7,Nov 7,DATE,,,en,1.1
+64 Monday,64 Monday,DATE,,,en,1.1
+the past week,the past week,DATE,,,en,1.1
+Argentine,Argentine,NORP,,,en,1.1
+Jan. 6,Jan. 6,DATE,,,en,1.1
++5650 chars,+5650 chars,WORK_OF_ART,,,en,1.0
+$6.6 billion,$6.6 billion,MONEY,,,en,1.0
+"more than 128,000","more than 128,000",CARDINAL,,,en,1.0
+11 years,11 years,DATE,,,en,1.0
+"August 15, 2025","August 15, 2025",DATE,,,en,1.0
+centuries,centuries,DATE,,,en,1.0
+The National Memorial Arboretum,The National Memorial Arboretum,EVENT,,,en,1.0
+80th,80th,ORDINAL,,,en,1.0
+Edinburgh's Radical Road,Edinburgh's Radical Road,FAC,,,en,1.0
+Muslim,Muslim,NORP,,,en,1.0
+Radical Road,Radical Road,FAC,,,en,1.0
+last under two weeks,last under two weeks,DATE,,,en,1.0
 more than 78%,more than 78%,PERCENT,,,en,1.0
 22%,22%,PERCENT,,,en,1.0
 November 7,November 7,DATE,,,en,1.0
-+13756,+13756,NORP,,,en,1.0
 "Today is Friday, Nov. 7","Today is Friday, Nov. 7",DATE,,,en,1.0
 the 311th day of 2025,the 311th day of 2025,DATE,,,en,1.0
-At least 18,At least 18,CARDINAL,,,en,1.0
+54 days,54 days,DATE,,,en,1.0
 the year,the year,DATE,,,en,1.0
 "Nov. 7, 1916","Nov. 7, 1916",DATE,,,en,1.0
+August von Galen,August von Galen,DATE,,,en,1.0
 2.5,2.5,CARDINAL,,,en,1.0
-The Golden Gate Bridge,The Golden Gate Bridge,FAC,,,en,1.0
 "2025 /
  ","2025 /
  ",DATE,,,en,1.0
@@ -173,40 +181,35 @@ Months,Months,DATE,,,en,1.0
 the last six months,the last six months,DATE,,,en,1.0
 Road Closed,Road Closed,WORK_OF_ART,,,en,1.0
 Wildwood Road,Wildwood Road,FAC,,,en,1.0
-about 35% or 40%,about 35% or 40%,PERCENT,,,en,1.0
 Dems,Dems,NORP,,,en,1.0
 lap days,lap days,DATE,,,en,1.0
 Four days,Four days,DATE,,,en,1.0
-Muslim,Muslim,NORP,,,en,1.0
 "November 8, 2025
  ","November 8, 2025
  ",DATE,,,en,1.0
-hundreds,hundreds,CARDINAL,,,en,1.0
-54 days,54 days,DATE,,,en,1.0
-Indonesian,Indonesian,NORP,,,en,1.0
-the Friuli Venezia Giulia Region,the Friuli Venezia Giulia Region,FAC,,,en,1.0
-the coming weeks,the coming weeks,DATE,,,en,1.0
-Gold Dust Woman,Gold Dust Woman,WORK_OF_ART,,,en,1.0
-the Barclays Center,the Barclays Center,FAC,,,en,1.0
-roughly 40,roughly 40,CARDINAL,,,en,1.0
-September,September,DATE,,,en,1.0
-More than seven weeks,More than seven weeks,DATE,,,en,1.0
-seven-week,seven-week,DATE,,,en,1.0
-11/12/2025 9:41:05 AM PST,11/12/2025 9:41:05 AM PST,TIME,,,en,1.0
-"November 12, 2025
- ","November 12, 2025
- ",DATE,,,en,1.0
-Eleven,Eleven,CARDINAL,,,en,1.0
+more than 1 million,more than 1 million,CARDINAL,,,en,1.0
+1 million,1 million,CARDINAL,,,en,1.0
+Super Typhoon Fung-wong,Super Typhoon Fung-wong,EVENT,,,en,1.0
+Himalayas,Himalayas,NORP,-0.2,0.3,en,1.0
+30th,30th,ORDINAL,,,en,1.0
+Conference of Parties,Conference of Parties,EVENT,,,en,1.0
+"October 22, 2025","October 22, 2025",DATE,,,en,1.0
+November 4,November 4,DATE,,,en,1.0
+modern-day,modern-day,DATE,,,en,1.0
+at least 4,at least 4,CARDINAL,,,en,1.0
+"Nearly 2,500 foot","Nearly 2,500 foot",QUANTITY,,,en,1.0
+at least 37,at least 37,CARDINAL,,,en,1.0
+British,British,NORP,,,en,1.0
+At least 18,At least 18,CARDINAL,,,en,1.0
+the National Disaster Mitigation Age,the National Disaster Mitigation Age,LAW,,,en,1.0
+Nov 17,Nov 17,DATE,,,en,1.0
+more than 30,more than 30,CARDINAL,,,en,1.0
 yesterday,yesterday,DATE,,,en,1.0
-just four,just four,CARDINAL,,,en,1.0
-Year,Year,DATE,,,en,1.0
-year,year,DATE,,,en,1.0
-the Year,the Year,DATE,,,en,1.0
-just months,just months,DATE,,,en,1.0
-Nov. 19,Nov. 19,DATE,,,en,1.0
-winter,winter,DATE,,,en,1.0
-+1323 chars,+1323 chars,WORK_OF_ART,,,en,1.0
-2023,2023,DATE,,,en,1.0
+Eleven,Eleven,CARDINAL,,,en,1.0
+up to 8 metres,up to 8 metres,QUANTITY,,,en,1.0
+Indonesian,Indonesian,NORP,,,en,1.0
+several meters,several meters,QUANTITY,,,en,1.0
+November to April,November to April,DATE,,,en,1.0
 Bihar,Bihar,NORP,,,en,1.0
 Several days,Several days,DATE,,,en,1.0
 At least two,At least two,CARDINAL,,,en,1.0
@@ -215,62 +218,86 @@ Nov 14,Nov 14,DATE,,,en,1.0
 Nevado del Ruiz,Nevado del Ruiz,FAC,,,en,1.0
 40 years,40 years,DATE,,,en,1.0
 Blacktopping Begins on Key Section of Kaligandaki Corridor,Blacktopping Begins on Key Section of Kaligandaki Corridor,WORK_OF_ART,,,en,1.0
-up to 8 metres,up to 8 metres,QUANTITY,,,en,1.0
+the Friuli Venezia Giulia Region,the Friuli Venezia Giulia Region,FAC,,,en,1.0
+hundreds,hundreds,CARDINAL,,,en,1.0
+less than 18,less than 18,CARDINAL,,,en,1.0
+34,34,CARDINAL,,,en,1.0
+The post,The post,DATE,,,en,1.0
+Conservatives,Conservatives,NORP,,,en,1.0
+A year,A year,DATE,,,en,1.0
+11/20/2025 10:48:18 AM PST,11/20/2025 10:48:18 AM PST,TIME,,,en,1.0
+"2025 12:01 AM
+ ","2025 12:01 AM
+ ",TIME,,,en,1.0
+73 percent,73 percent,PERCENT,,,en,1.0
+2019,2019,DATE,,,en,1.0
+243,243,CARDINAL,,,en,1.0
+202,202,CARDINAL,,,en,1.0
+tenth,tenth,ORDINAL,,,en,1.0
+nearly two dozen,nearly two dozen,CARDINAL,,,en,1.0
++3534,+3534,NORP,,,en,1.0
+recent weeks,recent weeks,DATE,,,en,1.0
+Liquid Glass,Liquid Glass,PRODUCT,,,en,1.0
+iOS 26,iOS 26,PRODUCT,,,en,1.0
+16s,16s,CARDINAL,,,en,1.0
+Central Java,Central Java,NORP,0.0,0.009079903147699755,en,1.0
 the year 2025,the year 2025,DATE,,,en,1.0
 democratic,democratic,NORP,,,en,1.0
 Oct. 1,Oct. 1,DATE,,,en,1.0
 11th,11th,ORDINAL,,,en,1.0
-next week',next week',DATE,,,en,1.0
-this year,this year,DATE,,,en,1.0
-The Moment,The Moment,WORK_OF_ART,,,en,1.0
 months,months,DATE,,,en,1.0
-at least 4,at least 4,CARDINAL,,,en,1.0
-less than 18,less than 18,CARDINAL,,,en,1.0
-British,British,NORP,,,en,1.0
-"Nearly 2,500 foot","Nearly 2,500 foot",QUANTITY,,,en,1.0
-11 years,11 years,DATE,,,en,1.0
-"more than 128,000","more than 128,000",CARDINAL,,,en,1.0
-$6.6 billion,$6.6 billion,MONEY,,,en,1.0
-+5650 chars,+5650 chars,WORK_OF_ART,,,en,1.0
-"August 15, 2025","August 15, 2025",DATE,,,en,1.0
-The National Memorial Arboretum,The National Memorial Arboretum,EVENT,,,en,1.0
-80th,80th,ORDINAL,,,en,1.0
-the National Disaster Mitigation Age,the National Disaster Mitigation Age,LAW,,,en,1.0
-centuries,centuries,DATE,,,en,1.0
-Edinburgh's Radical Road,Edinburgh's Radical Road,FAC,,,en,1.0
-Radical Road,Radical Road,FAC,,,en,1.0
-Three,Three,CARDINAL,,,en,1.0
-last under two weeks,last under two weeks,DATE,,,en,1.0
-Nov 17,Nov 17,DATE,,,en,1.0
-Spanish,Spanish,NORP,,,en,1.0
 approximately 25%,approximately 25%,PERCENT,,,en,1.0
-Nacho,Nacho,FAC,,,en,1.0
 Downing Street,Downing Street,WORK_OF_ART,,,en,1.0
 55,55,CARDINAL,,,en,1.0
 the fifth year,the fifth year,DATE,,,en,1.0
-more than 70%,more than 70%,PERCENT,,,en,1.0
+five years,five years,DATE,,,en,1.0
 five-year,five-year,DATE,,,en,1.0
 about 19%,about 19%,PERCENT,,,en,1.0
 30%,30%,PERCENT,,,en,1.0
 the coming months,the coming months,DATE,,,en,1.0
 the sixth,the sixth,DATE,,,en,1.0
 recent years,recent years,DATE,,,en,1.0
-JAKARTA,JAKARTA,WORK_OF_ART,0.012499999999999997,0.31666666666666665,en,1.0
-more than 30,more than 30,CARDINAL,,,en,1.0
 18:03,18:03,CARDINAL,,,en,1.0
 "Nov 12, 2025","Nov 12, 2025",DATE,,,en,1.0
 the Statewide Intensive Revision,the Statewide Intensive Revision,LAW,,,en,1.0
-five years,five years,DATE,,,en,1.0
-at least 37,at least 37,CARDINAL,,,en,1.0
-More than 40,More than 40,CARDINAL,,,en,1.0
+Nacho,Nacho,FAC,,,en,1.0
+Spanish,Spanish,NORP,,,en,1.0
++1323 chars,+1323 chars,WORK_OF_ART,,,en,1.0
+The Moment,The Moment,WORK_OF_ART,,,en,1.0
+just months,just months,DATE,,,en,1.0
+roughly 40,roughly 40,CARDINAL,,,en,1.0
+next week',next week',DATE,,,en,1.0
+this year,this year,DATE,,,en,1.0
+2023,2023,DATE,,,en,1.0
+the coming weeks,the coming weeks,DATE,,,en,1.0
+Nov. 19,Nov. 19,DATE,,,en,1.0
+Gold Dust Woman,Gold Dust Woman,WORK_OF_ART,,,en,1.0
+the Barclays Center,the Barclays Center,FAC,,,en,1.0
+September,September,DATE,,,en,1.0
+the Year,the Year,DATE,,,en,1.0
+More than seven weeks,More than seven weeks,DATE,,,en,1.0
+seven-week,seven-week,DATE,,,en,1.0
+11/12/2025 9:41:05 AM PST,11/12/2025 9:41:05 AM PST,TIME,,,en,1.0
+"November 12, 2025
+ ","November 12, 2025
+ ",DATE,,,en,1.0
+just four,just four,CARDINAL,,,en,1.0
+Year,Year,DATE,,,en,1.0
+year,year,DATE,,,en,1.0
+winter,winter,DATE,,,en,1.0
+The BP Highway,The BP Highway,FAC,,,en,1.0
+Narayangadh-Muglin Road Reopens After Landslide,Narayangadh-Muglin Road Reopens After Landslide,FAC,,,en,1.0
++4143,+4143,NORP,,,en,1.0
+the last few days,the last few days,DATE,,,en,1.0
 Dublin Castle,Dublin Castle,FAC,,,en,1.0
++3131,+3131,NORP,,,en,1.0
 2028,2028,DATE,,,en,1.0
 2011,2011,DATE,,,en,1.0
 a disastrous day,a disastrous day,DATE,,,en,1.0
 72 hours,72 hours,TIME,,,en,1.0
 Oct 25,Oct 25,DATE,,,en,1.0
-+4143,+4143,NORP,,,en,1.0
 31,31,CARDINAL,,,en,1.0
+100 mph,100 mph,QUANTITY,,,en,1.0
 White House,White House,FAC,,,en,1.0
 +20283,+20283,NORP,,,en,1.0
 38 metres,38 metres,QUANTITY,,,en,1.0
@@ -279,19 +306,20 @@ the iPhone,the iPhone,PRODUCT,,,en,1.0
 Bendgate,Bendgate,WORK_OF_ART,,,en,1.0
 iPhone 17,iPhone 17,PRODUCT,,,en,1.0
 81,81,CARDINAL,,,en,1.0
-Turkish,Turkish,NORP,,,en,1.0
+90 mph,90 mph,QUANTITY,,,en,1.0
+evening,evening,TIME,,,en,1.0
 74 years old,74 years old,DATE,,,en,1.0
-+3131,+3131,NORP,,,en,1.0
-10th,10th,ORDINAL,,,en,1.0
-"Abstract
-","Abstract
-",WORK_OF_ART,,,en,1.0
-the last few days,the last few days,DATE,,,en,1.0
+295 kilometres per hour,295 kilometres per hour,QUANTITY,,,en,1.0
++12666 chars,+12666 chars,WORK_OF_ART,,,en,1.0
+Almost a year ago,Almost a year ago,DATE,,,en,1.0
+the Trump years,the Trump years,DATE,,,en,1.0
++12675,+12675,NORP,,,en,1.0
+October 30th,October 30th,DATE,,,en,1.0
 295kmh,295kmh,QUANTITY,,,en,1.0
 the century,the century,DATE,,,en,1.0
 77 per cent,77 per cent,MONEY,,,en,1.0
-295 kilometres per hour,295 kilometres per hour,QUANTITY,,,en,1.0
 Hait,Hait,PRODUCT,,,en,1.0
+Monday afternoon,Monday afternoon,TIME,,,en,1.0
 Jamaicans,Jamaicans,NORP,,,en,1.0
 Half a million,Half a million,CARDINAL,,,en,1.0
 At least one,At least one,CARDINAL,,,en,1.0
@@ -300,14 +328,11 @@ October 24,October 24,DATE,,,en,1.0
 about a dozen,about a dozen,CARDINAL,,,en,1.0
 Hurricane Melissas,Hurricane Melissas,FAC,,,en,1.0
 millions,millions,CARDINAL,,,en,1.0
-Monday afternoon,Monday afternoon,TIME,,,en,1.0
-evening,evening,TIME,,,en,1.0
-100 mph,100 mph,QUANTITY,,,en,1.0
-90 mph,90 mph,QUANTITY,,,en,1.0
+Turkish,Turkish,NORP,,,en,1.0
 +64203,+64203,NORP,,,en,1.0
-2010,2010,DATE,,,en,1.0
-the years,the years,DATE,,,en,1.0
-Sixty-four,Sixty-four,CARDINAL,,,en,1.0
+around 5:10 p.m.,around 5:10 p.m.,TIME,,,en,1.0
+744,744,CARDINAL,,,en,1.0
+at least 47,at least 47,CARDINAL,,,en,1.0
 at least 38,at least 38,CARDINAL,,,en,1.0
 "Sunday, Oct. 12","Sunday, Oct. 12",DATE,,,en,1.0
 47,47,CARDINAL,,,en,1.0
@@ -315,8 +340,8 @@ at least 38,at least 38,CARDINAL,,,en,1.0
 At Least 47,At Least 47,CARDINAL,,,en,1.0
 Minutes,Minutes,TIME,,,en,1.0
 less than 20%,less than 20%,PERCENT,,,en,1.0
-744,744,CARDINAL,,,en,1.0
 44,44,CARDINAL,,,en,1.0
+… Fifteen minutes,… Fifteen minutes,TIME,,,en,1.0
 at least 41,at least 41,CARDINAL,,,en,1.0
 27,27,CARDINAL,,,en,1.0
 42,42,CARDINAL,,,en,1.0
@@ -325,18 +350,22 @@ Mexicans,Mexicans,NORP,,,en,1.0
 At least 41,At least 41,CARDINAL,,,en,1.0
 117,117,CARDINAL,,,en,1.0
 2022,2022,DATE,,,en,1.0
-at least 47,at least 47,CARDINAL,,,en,1.0
-… Fifteen minutes,… Fifteen minutes,TIME,,,en,1.0
-several weeks,several weeks,DATE,,,en,1.0
+Sixty-four,Sixty-four,CARDINAL,,,en,1.0
 Almost 130,Almost 130,CARDINAL,,,en,1.0
+"Abstract
+","Abstract
+",WORK_OF_ART,,,en,1.0
+292k,292k,MONEY,,,en,1.0
+2010,2010,DATE,,,en,1.0
+several weeks,several weeks,DATE,,,en,1.0
 nine,nine,CARDINAL,,,en,1.0
 eight years,eight years,DATE,,,en,1.0
 the age of 74,the age of 74,DATE,,,en,1.0
 74,74,DATE,,,en,1.0
 Earlier this month,Earlier this month,DATE,,,en,1.0
 Oct. 3,Oct. 3,DATE,,,en,1.0
-292k,292k,MONEY,,,en,1.0
 2006,2006,DATE,,,en,1.0
+"some 10,000","some 10,000",CARDINAL,,,en,1.0
 Three weeks,Three weeks,DATE,,,en,1.0
 at least 66,at least 66,CARDINAL,,,en,1.0
 "Abstract
@@ -347,56 +376,64 @@ the past five years,the past five years,DATE,,,en,1.0
 129,129,CARDINAL,,,en,1.0
 several days last week,several days last week,DATE,,,en,1.0
 200,200,CARDINAL,,,en,1.0
-"some 10,000","some 10,000",CARDINAL,,,en,1.0
-October 30th,October 30th,DATE,,,en,1.0
-the weekend,the weekend,DATE,,,en,1.0
-+12675,+12675,NORP,,,en,1.0
+2017,2017,DATE,,,en,1.0
+12 kilometers,12 kilometers,QUANTITY,,,en,1.0
+"1,800 meters","1,800 meters",QUANTITY,,,en,1.0
 26,26,CARDINAL,,,en,1.0
-22,22,CARDINAL,,,en,1.0
-Bakaiya Rural Municipa,Bakaiya Rural Municipa,FAC,,,en,1.0
-6 am this morning,6 am this morning,TIME,,,en,1.0
-the Hetauda-Kathmandu road,the Hetauda-Kathmandu road,FAC,,,en,1.0
-The BP Highway,The BP Highway,FAC,,,en,1.0
-East African,East African,NORP,,,en,1.0
-ten,ten,CARDINAL,,,en,1.0
-Kagbeni,Kagbeni,NORP,,,en,1.0
-four years ago,four years ago,DATE,,,en,1.0
-October 26,October 26,DATE,,,en,1.0
-Waging Nonviolence,Waging Nonviolence,WORK_OF_ART,,,en,1.0
-some 30,some 30,CARDINAL,,,en,1.0
-Kenyan,Kenyan,NORP,,,en,1.0
-this weekend,this weekend,DATE,,,en,1.0
-at least 30,at least 30,CARDINAL,,,en,1.0
-37,37,CARDINAL,,,en,1.0
-Brits,Brits,NORP,,,en,1.0
-Twenty-nine,Twenty-nine,CARDINAL,,,en,1.0
-at least 26,at least 26,CARDINAL,,,en,1.0
-the Trump years,the Trump years,DATE,,,en,1.0
-missingAl,missingAl,CARDINAL,,,en,1.0
-This Week,This Week,DATE,,,en,1.0
-Nanobot Beauty Scams,Nanobot Beauty Scams,WORK_OF_ART,,,en,1.0
-Nepal,Nepal,NORP,0.0,0.0,en,1.0
-Five,Five,CARDINAL,,,en,1.0
-about 100ft above s,about 100ft above s,QUANTITY,,,en,1.0
-7km,7km,QUANTITY,,,en,1.0
-an autumnal day,an autumnal day,DATE,,,en,1.0
-February 2021,February 2021,DATE,,,en,1.0
-four years,four years,DATE,,,en,1.0
-Greystones,Greystones,NORP,,,en,1.0
-morning,morning,TIME,,,en,1.0
 early Monday,early Monday,TIME,,,en,1.0
 6.3,6.3,CARDINAL,,,en,1.0
 last night,last night,TIME,,,en,1.0
 the Prithvi Highway,the Prithvi Highway,FAC,,,en,1.0
 The Fine Print,The Fine Print,WORK_OF_ART,,,en,1.0
 Jazeera Kenyan,Jazeera Kenyan,NORP,,,en,1.0
-daily,daily,DATE,,,en,1.0
-11/1/2025,11/1/2025,CARDINAL,,,en,1.0
-nearly 97.66%,nearly 97.66%,PERCENT,,,en,1.0
-63,63,CARDINAL,,,en,1.0
-11 AM,11 AM,TIME,,,en,1.0
+missingAl,missingAl,CARDINAL,,,en,1.0
+at least 26,at least 26,CARDINAL,,,en,1.0
+Twenty-nine,Twenty-nine,CARDINAL,,,en,1.0
+four years,four years,DATE,,,en,1.0
+22,22,CARDINAL,,,en,1.0
+Bakaiya Rural Municipa,Bakaiya Rural Municipa,FAC,,,en,1.0
+6 am this morning,6 am this morning,TIME,,,en,1.0
+the Hetauda-Kathmandu road,the Hetauda-Kathmandu road,FAC,,,en,1.0
+37,37,CARDINAL,,,en,1.0
+East African,East African,NORP,,,en,1.0
+ten,ten,CARDINAL,,,en,1.0
+Kagbeni,Kagbeni,NORP,,,en,1.0
+Greystones,Greystones,NORP,,,en,1.0
+February 2021,February 2021,DATE,,,en,1.0
+Fuerza Patria,Fuerza Patria,WORK_OF_ART,,,en,1.0
+Republican,Republican,NORP,,,en,1.0
+Jihadists,Jihadists,NORP,,,en,1.0
+This Sunday,This Sunday,DATE,,,en,1.0
++13756,+13756,NORP,,,en,1.0
+about 60%,about 60%,PERCENT,,,en,1.0
+about 35% or 40%,about 35% or 40%,PERCENT,,,en,1.0
+The Golden Gate Bridge,The Golden Gate Bridge,FAC,,,en,1.0
+90%,90%,PERCENT,,,en,1.0
+November 25th,November 25th,DATE,,,en,1.0
+more than 70%,more than 70%,PERCENT,,,en,1.0
+an autumnal day,an autumnal day,DATE,,,en,1.0
+More than 40,More than 40,CARDINAL,,,en,1.0
+the years,the years,DATE,,,en,1.0
+This Week,This Week,DATE,,,en,1.0
+Nanobot Beauty Scams,Nanobot Beauty Scams,WORK_OF_ART,,,en,1.0
+Nepal,Nepal,NORP,0.0,0.0,en,1.0
+Five,Five,CARDINAL,,,en,1.0
+about 100ft above s,about 100ft above s,QUANTITY,,,en,1.0
+7km,7km,QUANTITY,,,en,1.0
+four years ago,four years ago,DATE,,,en,1.0
+October 26,October 26,DATE,,,en,1.0
+Waging Nonviolence,Waging Nonviolence,WORK_OF_ART,,,en,1.0
 this morning,this morning,TIME,,,en,1.0
+13,13,CARDINAL,,,en,1.0
+"October 28, 2025","October 28, 2025",DATE,,,en,1.0
+"Friday,","Friday,",DATE,,,en,1.0
+tonight,tonight,TIME,,,en,1.0
+8pm,8pm,TIME,,,en,1.0
+Dharan-Dhankuta Road Partially Closed Due to Landslide:,Dharan-Dhankuta Road Partially Closed Due to Landslide:,FAC,,,en,1.0
+approximately 10 meters,approximately 10 meters,QUANTITY,,,en,1.0
+11 AM,11 AM,TIME,,,en,1.0
 the BP Highway,the BP Highway,FAC,,,en,1.0
+some 30,some 30,CARDINAL,,,en,1.0
 2011-20,2011-20,DATE,,,en,1.0
 2011-2025,2011-2025,DATE,,,en,1.0
 1999,1999,DATE,,,en,1.0
@@ -405,16 +442,18 @@ half an hour,half an hour,TIME,,,en,1.0
 Tuin Khola bridge,Tuin Khola bridge,FAC,0.2,1.1333333333333333,en,1.0
 Muglin,Muglin,NORP,0.16666666666666669,1.2666666666666666,en,1.0
 +6647 chars,+6647 chars,WORK_OF_ART,,,en,1.0
-Fuerza Patria,Fuerza Patria,WORK_OF_ART,,,en,1.0
-"1,800 meters","1,800 meters",QUANTITY,,,en,1.0
-12 kilometers,12 kilometers,QUANTITY,,,en,1.0
-2017,2017,DATE,,,en,1.0
-+12666 chars,+12666 chars,WORK_OF_ART,,,en,1.0
-Almost a year ago,Almost a year ago,DATE,,,en,1.0
-approximately 10 meters,approximately 10 meters,QUANTITY,,,en,1.0
-Dharan-Dhankuta Road Partially Closed Due to Landslide:,Dharan-Dhankuta Road Partially Closed Due to Landslide:,FAC,,,en,1.0
-8pm,8pm,TIME,,,en,1.0
-millions of dollars,millions of dollars,MONEY,,,en,1.0
+at least 13,at least 13,CARDINAL,,,en,1.0
+its second month,its second month,DATE,,,en,1.0
+Americans,Americans,NORP,,,en,1.0
+this Halloween season,this Halloween season,DATE,,,en,1.0
+Kenyan,Kenyan,NORP,,,en,1.0
+this weekend,this weekend,DATE,,,en,1.0
+at least 30,at least 30,CARDINAL,,,en,1.0
+Brits,Brits,NORP,,,en,1.0
+daily,daily,DATE,,,en,1.0
+11/1/2025,11/1/2025,CARDINAL,,,en,1.0
+nearly 97.66%,nearly 97.66%,PERCENT,,,en,1.0
+63,63,CARDINAL,,,en,1.0
 Storm Catherine,Storm Catherine,WORK_OF_ART,,,en,1.0
 countrys,countrys,NORP,,,en,1.0
 97.66,97.66,CARDINAL,,,en,1.0
@@ -422,13 +461,6 @@ the previous day,the previous day,DATE,,,en,1.0
 the past three days,the past three days,DATE,,,en,1.0
 three days,three days,DATE,,,en,1.0
 the Blue Mountains,the Blue Mountains,FAC,0.11012987012987012,0.31662337662337664,en,1.0
+millions of dollars,millions of dollars,MONEY,,,en,1.0
 "March 8, 2025","March 8, 2025",DATE,,,en,1.0
-tonight,tonight,TIME,,,en,1.0
-this Halloween season,this Halloween season,DATE,,,en,1.0
-Americans,Americans,NORP,,,en,1.0
-its second month,its second month,DATE,,,en,1.0
-at least 13,at least 13,CARDINAL,,,en,1.0
-13,13,CARDINAL,,,en,1.0
-"October 28, 2025","October 28, 2025",DATE,,,en,1.0
-"Friday,","Friday,",DATE,,,en,1.0
-34,34,CARDINAL,,,en,1.0
+Australian,Australian,NORP,,,en,1.0
