@@ -1,235 +1,185 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Reuters,Reuters,ORG,0.05612426788897377,0.46857015533486107,en,11.900000000000002
-BNPB,BNPB,ORG,0.10091743119266051,0.25076452599388377,en,10.900000000000002
-AP,AP,ORG,0.06516333749479813,0.7588967316495406,en,8.900000000000002
+Reuters,Reuters,ORG,0.04875027648750276,0.40700619332006177,en,13.700000000000003
+BNPB,BNPB,ORG,0.10280373831775697,0.25545171339563855,en,10.700000000000003
+AP,AP,ORG,0.03899991983325315,0.7271730738397404,en,10.500000000000004
 Java,Java,ORG,0.11666666666666664,0.40662100456621,en,7.300000000000001
 NDA,NDA,ORG,0.1350108225108225,0.28138528138528135,en,5.6000000000000005
-Super Typhoon Fung-wong,Super Typhoon Fung-wong,ORG,0.2523809523809523,0.5123210123210123,en,5.5
 Senate,Senate,ORG,0.03636363636363637,0.07272727272727274,en,5.5
-The National Disaster Mitigation Agency,The National Disaster Mitigation Agency,ORG,0.07878787878787878,0.22424242424242424,en,5.5
+Super Typhoon Fung-wong,Super Typhoon Fung-wong,ORG,0.2523809523809523,0.5123210123210123,en,5.5
+KUALA LUMPUR,KUALA LUMPUR,ORG,0.20454545454545456,0.3424242424242424,en,5.5
+The National Disaster Mitigation Agency,The National Disaster Mitigation Agency,ORG,0.0802469135802469,0.22839506172839505,en,5.4
 SDRF,SDRF,ORG,-0.06038647342995169,0.29710144927536236,en,4.6
-P14,P14,ORG,0.13288288288288286,0.2477477477477478,en,3.6999999999999997
+IPOH,IPOH,ORG,0.18478260869565216,0.3840579710144928,en,4.6
 the State Disaster Response Force,the State Disaster Response Force,ORG,-0.07507507507507506,0.34234234234234234,en,3.6999999999999997
-KUALA LUMPUR,KUALA LUMPUR,ORG,0.24324324324324323,0.3581081081081081,en,3.6999999999999997
+P14,P14,ORG,0.13288288288288286,0.2477477477477478,en,3.6999999999999997
 House,House,ORG,0.07535559678416821,0.4688157081014223,en,3.5000000000000004
+Frehley,Frehley,ORG,0.4060828877005347,0.551470588235294,en,3.4000000000000004
 Central Java,Central Java,ORG,0.22023809523809526,0.42261904761904767,en,2.8
+PPS,PPS,ORG,0.0625,0.1517857142857143,en,2.8
 JKR,JKR,ORG,0.10416666666666666,0.19841269841269843,en,2.8
-Odisha,Odisha,ORG,0.19642857142857142,0.4583333333333333,en,2.8
-IPOH,IPOH,ORG,0.23214285714285712,0.44642857142857145,en,2.8
 Trump,Trump,ORG,0.7569444444444444,1.3732638888888886,en,2.4000000000000004
-Fire &amp,Fire &amp,ORG,-0.08771929824561402,0.2631578947368421,en,1.9
-the Chinese Communist Party,the Chinese Communist Party,ORG,0.04186602870813397,0.0729665071770335,en,1.9
-BALIK PULAU,BALIK PULAU,ORG,0.038293460925039866,0.5733173843700159,en,1.9
-The Penang Public Works Department,The Penang Public Works Department,ORG,0.15350877192982454,0.16666666666666669,en,1.9
-the Kadirashan Culvert,the Kadirashan Culvert,ORG,0.14411027568922305,0.27568922305764415,en,1.9
-the Haldummulla Police Division,the Haldummulla Police Division,ORG,0.14411027568922305,0.27568922305764415,en,1.9
-the University of Calgary,the University of Calgary,ORG,0.10167464114832536,0.20733652312599682,en,1.9
-The Ministry of Social Affairs,The Ministry of Social Affairs,ORG,0.028070175438596492,0.0543859649122807,en,1.9
-a Rapid Response Team,a Rapid Response Team,ORG,0.0,0.0,en,1.9
-TRC,TRC,ORG,0.0,0.0,en,1.9
-the Public Works Department,the Public Works Department,ORG,0.08859649122807019,0.19152046783625734,en,1.9
+HETAUDA,HETAUDA,ORG,0.06041666666666667,0.21875000000000003,en,2.4
+Odisha,Odisha,ORG,0.22916666666666666,0.5347222222222222,en,2.4
+BP Highway Reopens,BP Highway Reopens,ORG,-0.1171875,0.3515625,en,2.4
 Brazzano di Cormons,Brazzano di Cormons,ORG,-0.14035087719298245,0.09649122807017545,en,1.9
-BTB,BTB,ORG,0.0,0.03508771929824561,en,1.9
-JAKARTA,JAKARTA,ORG,0.10526315789473685,0.3157894736842105,en,1.9
-National Disaster Mitigation Agency,National Disaster Mitigation Agency,ORG,0.3508771929824561,0.39473684210526316,en,1.9
-Aetolia-Acarnania,Aetolia-Acarnania,ORG,-0.03728070175438596,0.24342105263157895,en,1.9
-Peoples' Review,Peoples' Review,ORG,0.2236842105263158,0.17543859649122806,en,1.9
+survivorsABC News Landslide,survivorsABC News Landslide,ORG,-0.008771929824561413,0.2,en,1.9
 The Irish Times,The Irish Times,ORG,0.0,0.013157894736842106,en,1.9
 Labour Party,Labour Party,ORG,0.005847953216374267,0.08187134502923978,en,1.9
-Fire & Emergency Services,Fire & Emergency Services,ORG,-0.05847953216374268,0.3508771929824561,en,1.9
+Peoples' Review,Peoples' Review,ORG,0.2236842105263158,0.17543859649122806,en,1.9
+the Public Works Department,the Public Works Department,ORG,0.08859649122807019,0.19152046783625734,en,1.9
+National Disaster Mitigation Agency,National Disaster Mitigation Agency,ORG,0.3508771929824561,0.39473684210526316,en,1.9
+JAKARTA,JAKARTA,ORG,0.10526315789473685,0.3157894736842105,en,1.9
 Disaster Response Team,Disaster Response Team,ORG,0.0,0.03508771929824561,en,1.9
-Emergency Services,Emergency Services,ORG,-0.08771929824561402,0.2631578947368421,en,1.9
-UK Labour,UK Labour,ORG,0.0,0.0,en,1.9
-Apple,Apple,ORG,-0.2631578947368421,0.5263157894736842,en,1.9
-Highway,Highway,ORG,0.13157894736842105,0.17543859649122806,en,1.9
+BTB,BTB,ORG,0.0,0.03508771929824561,en,1.9
+the Foreign Ministry,the Foreign Ministry,ORG,0.05460526315789475,0.19210526315789478,en,1.9
+The Ministry of Social Affairs,The Ministry of Social Affairs,ORG,0.028070175438596492,0.0543859649122807,en,1.9
+the University of Calgary,the University of Calgary,ORG,0.10167464114832536,0.20733652312599682,en,1.9
+the Puncak Arabella Apartments,the Puncak Arabella Apartments,ORG,0.10526315789473685,0.16666666666666669,en,1.9
+PADANG,PADANG,ORG,-0.15964912280701757,0.15789473684210525,en,1.9
+PIB,PIB,ORG,0.1879699248120301,0.1879699248120301,en,1.9
+The Penticton Indian Band,The Penticton Indian Band,ORG,0.1879699248120301,0.1879699248120301,en,1.9
+the Haldummulla Police Division,the Haldummulla Police Division,ORG,0.14411027568922305,0.27568922305764415,en,1.9
+the Kadirashan Culvert,the Kadirashan Culvert,ORG,0.14411027568922305,0.27568922305764415,en,1.9
+the Chinese Communist Party,the Chinese Communist Party,ORG,0.04186602870813397,0.0729665071770335,en,1.9
 KANGAR,KANGAR,ORG,0.1074561403508772,0.17763157894736845,en,1.9
+Highway,Highway,ORG,0.13157894736842105,0.17543859649122806,en,1.9
 MGNREGA,MGNREGA,ORG,0.0,0.0,en,1.9
 Alerts,Alerts,ORG,0.02819548872180451,0.13314536340852132,en,1.9
+Block C,Block C,ORG,0.10526315789473685,0.21052631578947373,en,1.9
+UK Labour,UK Labour,ORG,0.0,0.0,en,1.9
 F&amp;ES,F&amp;ES,ORG,-0.08771929824561402,0.2631578947368421,en,1.9
+Emergency Services,Emergency Services,ORG,-0.08771929824561402,0.2631578947368421,en,1.9
+Fire &amp,Fire &amp,ORG,-0.08771929824561402,0.2631578947368421,en,1.9
+the Alawathugoda Police Division,the Alawathugoda Police Division,ORG,0.0,0.5263157894736842,en,1.9
+Fire & Emergency Services,Fire & Emergency Services,ORG,-0.05847953216374268,0.3508771929824561,en,1.9
+Jalan Gua Musang-Lojing FT185,Jalan Gua Musang-Lojing FT185,ORG,0.17105263157894735,0.22368421052631582,en,1.9
+Centre,Centre,ORG,0.2105263157894737,0.0,en,1.9
+BALIK PULAU,BALIK PULAU,ORG,0.038293460925039866,0.5733173843700159,en,1.9
+The Penang Public Works Department,The Penang Public Works Department,ORG,0.15350877192982454,0.16666666666666669,en,1.9
+Apple,Apple,ORG,-0.2631578947368421,0.5263157894736842,en,1.9
+MuglinNarayangadh,MuglinNarayangadh,ORG,0.06481481481481483,0.2777777777777778,en,1.8
+TRC,TRC,ORG,0.0,0.0,en,1.8
+a Rapid Response Team,a Rapid Response Team,ORG,0.0,0.0,en,1.8
+the Bharatpur Road Division,the Bharatpur Road Division,ORG,0.0,0.0,en,1.8
+The Narayangadh-Muglin road,The Narayangadh-Muglin road,ORG,0.06862745098039216,0.23529411764705885,en,1.7
 Congress,Congress,ORG,0.46153846153846145,0.45512820512820507,en,1.3000000000000003
-Big Tech,Big Tech,ORG,0.16666666666666663,0.5865384615384615,en,1.3000000000000003
 The Independent,The Independent,ORG,0.16666666666666663,0.5865384615384615,en,1.3000000000000003
+Big Tech,Big Tech,ORG,0.16666666666666663,0.5865384615384615,en,1.3000000000000003
 MYAGDI,MYAGDI,ORG,-0.10416666666666666,1.739583333333333,en,1.2000000000000002
 MHP,MHP,ORG,0.0,0.41666666666666663,en,1.2000000000000002
-Uachtarán na hÉireann,Uachtarán na hÉireann,ORG,0.5924242424242423,0.4878787878787878,en,1.1
-Von,Von,ORG,0.19696969696969696,0.2935606060606061,en,1.1
-D.C. Newsroom,D.C. Newsroom,ORG,-0.11363636363636363,0.15909090909090906,en,1.1
-the Labour Party,the Labour Party,ORG,-0.0505050505050505,0.1414141414141414,en,1.1
-This Ring Alarm,This Ring Alarm,ORG,0.1183884297520661,0.40764462809917346,en,1.1
-DHS,DHS,ORG,0.0,0.0,en,1.1
-Beni,Beni,ORG,-0.17045454545454544,0.9886363636363634,en,1.1
-Melodee Buzzard,Melodee Buzzard,ORG,-0.02272727272727273,0.022727272727272728,en,1.1
-Silver Spring,Silver Spring,ORG,0.0,0.0,en,1.1
-AL Manager,AL Manager,ORG,0.0,0.0,en,1.1
-DSA,DSA,ORG,0.5495867768595041,0.4132231404958677,en,1.1
-the Democratic Socialists of America,the Democratic Socialists of America,ORG,0.42561983471074377,0.6611570247933884,en,1.1
-Labour,Labour,ORG,0.6136363636363636,0.46590909090909083,en,1.1
-Red Sox,Red Sox,ORG,0.0,0.0,en,1.1
 the U.S. House of Representatives,the U.S. House of Representatives,ORG,0.3181818181818181,0.0,en,1.1
-BBC,BBC,ORG,0.045454545454545456,0.13636363636363635,en,1.1
+D.C. Newsroom,D.C. Newsroom,ORG,-0.11363636363636363,0.15909090909090906,en,1.1
+This Ring Alarm,This Ring Alarm,ORG,0.1183884297520661,0.40764462809917346,en,1.1
+Silver Spring,Silver Spring,ORG,0.0,0.0,en,1.1
+Uachtarán na hÉireann,Uachtarán na hÉireann,ORG,0.5924242424242423,0.4878787878787878,en,1.1
+Melodee Buzzard,Melodee Buzzard,ORG,-0.02272727272727273,0.022727272727272728,en,1.1
 Economic Digest,Economic Digest,ORG,0.4415584415584416,0.4036796536796537,en,1.1
+Labour,Labour,ORG,0.6136363636363636,0.46590909090909083,en,1.1
+AL Manager,AL Manager,ORG,0.0,0.0,en,1.1
+Red Sox,Red Sox,ORG,0.0,0.0,en,1.1
+Beni,Beni,ORG,-0.17045454545454544,0.9886363636363634,en,1.1
+DSA,DSA,ORG,0.5495867768595041,0.4132231404958677,en,1.1
+Von,Von,ORG,0.19696969696969696,0.2935606060606061,en,1.1
+DHS,DHS,ORG,0.0,0.0,en,1.1
+the Labour Party,the Labour Party,ORG,-0.0505050505050505,0.1414141414141414,en,1.1
+the Democratic Socialists of America,the Democratic Socialists of America,ORG,0.42561983471074377,0.6611570247933884,en,1.1
+BBC,BBC,ORG,0.045454545454545456,0.13636363636363635,en,1.1
 Melissa,Melissa,ORG,0.0909090909090909,0.9090909090909091,en,1.1
-Starmer,Starmer,ORG,-0.30000000000000004,0.0,en,1.0
-Danny New,Danny New,ORG,0.08484848484848484,0.0,en,1.0
-SEREMBAN,SEREMBAN,ORG,0.09583333333333333,0.0,en,1.0
-CSDS,CSDS,ORG,0.0,0.0,en,1.0
-IST,IST,ORG,0.0,0.0,en,1.0
-Major League Baseball,Major League Baseball,ORG,0.165625,0.0,en,1.0
-the National League,the National League,ORG,0.0,0.0,en,1.0
-Downing Street,Downing Street,ORG,-0.30000000000000004,0.0,en,1.0
-Chihuahua,Chihuahua,ORG,0.0,0.0,en,1.0
-National Health and Nutrition Examination Survey,National Health and Nutrition Examination Survey,ORG,0.0,0.0,en,1.0
-NHANES,NHANES,ORG,0.0,0.0,en,1.0
-"the Water, Sediment, Hazards, &amp","the Water, Sediment, Hazards, &amp",ORG,0.19318181818181818,0.0,en,1.0
-"the Water, Sediment, Hazards, & Earth","the Water, Sediment, Hazards, & Earth",ORG,0.0,0.0,en,1.0
-Centre,Centre,ORG,0.0,0.0,en,1.0
-ABC News',ABC News',ORG,0.08484848484848484,0.0,en,1.0
-Additi,Additi,ORG,0.19999999999999998,0.0,en,1.0
-eli,eli,ORG,-0.1125,0.0,en,1.0
-"Claussen, Whole Foods","Claussen, Whole Foods",ORG,0.2,0.0,en,1.0
-LRT,LRT,ORG,0.0,0.0,en,1.0
-PennDOT,PennDOT,ORG,-0.1125,0.0,en,1.0
-slidi,slidi,ORG,-0.1125,0.0,en,1.0
-COP30 climate summit,COP30 climate summit,ORG,0.0,0.0,en,1.0
-United Nations,United Nations,ORG,0.3333333333333333,0.0,en,1.0
-SDRF & F&ES,SDRF & F&ES,ORG,0.0,0.0,en,1.0
-Newsom,Newsom,ORG,0.0,0.0,en,1.0
-BELEM,BELEM,ORG,0.0,0.0,en,1.0
-Amazon,Amazon,ORG,0.0,0.0,en,1.0
-United Nations clima… Skip,United Nations clima… Skip,ORG,0.0,0.0,en,1.0
-The Fire and Rescue Department,The Fire and Rescue Department,ORG,-0.3,0.0,en,1.0
-Dashavtar,Dashavtar,ORG,0.0,0.0,en,1.0
-the Morris County Medical Examiner,the Morris County Medical Examiner,ORG,0.125,0.0,en,1.0
-The Autumn Budget,The Autumn Budget,ORG,0.25,0.0,en,1.0
-Nov.26,Nov.26,ORG,0.25,0.0,en,1.0
-Perak Fire and Rescue Department,Perak Fire and Rescue Department,ORG,0.0,0.0,en,1.0
-Cleveland Guardians,Cleveland Guardians,ORG,0.4166666666666667,0.0,en,1.0
-Britains Labour Party,Britains Labour Party,ORG,-0.051851851851851864,0.0,en,1.0
-the National ...,the National ...,ORG,0.0,0.0,en,1.0
-searc,searc,ORG,0.0,0.0,en,1.0
-SAR,SAR,ORG,-0.2,0.0,en,1.0
+The Associated Press,The Associated Press,ORG,0.0,0.0,en,1.0
+Antennagate,Antennagate,ORG,-0.5,0.0,en,1.0
+geomyths,geomyths,ORG,0.03333333333333333,0.0,en,1.0
 Baznas,Baznas,ORG,0.0,0.0,en,1.0
 The National Alms Agency,The National Alms Agency,ORG,0.0,0.0,en,1.0
-Jalan Sepadu 6,Jalan Sepadu 6,ORG,0.0,0.0,en,1.0
-the Mahatma Gandhi National Rural Employment Guarantee Act,the Mahatma Gandhi National Rural Employment Guarantee Act,ORG,0.0,0.0,en,1.0
-L-G,L-G,ORG,0.0,0.0,en,1.0
+Kalikot Landslide Claims Life,Kalikot Landslide Claims Life,ORG,0.0,0.0,en,1.0
+thousa,thousa,ORG,0.215,0.0,en,1.0
+The Fire and Rescue Department,The Fire and Rescue Department,ORG,-0.3,0.0,en,1.0
+SEREMBAN,SEREMBAN,ORG,0.09583333333333333,0.0,en,1.0
+CBC,CBC,ORG,0.5,0.0,en,1.0
+Ballarat Gold Mine,Ballarat Gold Mine,ORG,-0.26666666666666666,0.0,en,1.0
 India News,India News,ORG,0.25151515151515147,0.0,en,1.0
+"Aetolia-Acarnania
+","Aetolia-Acarnania
+",ORG,-0.07083333333333333,0.0,en,1.0
+the National ...,the National ...,ORG,0.0,0.0,en,1.0
+Aetolia-Acarnania,Aetolia-Acarnania,ORG,0.0,0.0,en,1.0
 Xinhua,Xinhua,ORG,-0.13333333333333333,0.0,en,1.0
 The National Disast…,The National Disast…,ORG,0.0,0.0,en,1.0
-the Strathcona Regional District,the Strathcona Regional District,ORG,0.0,0.0,en,1.0
-J&K,J&K,ORG,0.0,0.0,en,1.0
-Purwokerto,Purwokerto,ORG,0.0,0.0,en,1.0
+iPhone,iPhone,ORG,0.0,0.0,en,1.0
 Indonesia&rsquo;s Health Ministry,Indonesia&rsquo;s Health Ministry,ORG,0.0,0.0,en,1.0
-Health Ministry,Health Ministry,ORG,0.0,0.0,en,1.0
-D2FLS-Net-S,D2FLS-Net-S,ORG,0.0,0.0,en,1.0
-MLB,MLB,ORG,0.4166666666666667,0.0,en,1.0
-Sichuan Partially Collapses Due To Landslide,Sichuan Partially Collapses Due To Landslide,ORG,-0.075,0.0,en,1.0
-Fadnavis,Fadnavis,ORG,0.0,0.0,en,1.0
-C Java's,C Java's,ORG,0.0,0.0,en,1.0
-D-N.Y.,D-N.Y.,ORG,0.0,0.0,en,1.0
-N…,N…,ORG,0.012500000000000004,0.0,en,1.0
-Pixel,Pixel,ORG,0.8,0.0,en,1.0
-iOS,iOS,ORG,0.0,0.0,en,1.0
-nea,nea,ORG,-0.1,0.0,en,1.0
+Purwokerto,Purwokerto,ORG,0.0,0.0,en,1.0
+geomyths atte,geomyths atte,ORG,0.0,0.0,en,1.0
 CILACAP,CILACAP,ORG,-0.15555555555555556,0.0,en,1.0
-Android,Android,ORG,0.0,0.0,en,1.0
+Hajariah Said,Hajariah Said,ORG,0.0,0.0,en,1.0
+the National Camel Sustainability Initiative (NCSI,the National Camel Sustainability Initiative (NCSI,ORG,0.4,0.0,en,1.0
+Alawathugoda Landslide Site,Alawathugoda Landslide Site,ORG,0.0,0.0,en,1.0
+Operations Underway,Operations Underway,ORG,0.0,0.0,en,1.0
+Cleveland Guardians,Cleveland Guardians,ORG,0.4166666666666667,0.0,en,1.0
+MLB,MLB,ORG,0.4166666666666667,0.0,en,1.0
+Fadnavis,Fadnavis,ORG,0.0,0.0,en,1.0
+N…,N…,ORG,0.012500000000000004,0.0,en,1.0
+Sichuan Partially Collapses Due To Landslide,Sichuan Partially Collapses Due To Landslide,ORG,-0.075,0.0,en,1.0
+nea,nea,ORG,-0.1,0.0,en,1.0
+PUTRAJAYA,PUTRAJAYA,ORG,0.018750000000000003,0.0,en,1.0
+LRT,LRT,ORG,0.0,0.0,en,1.0
+UPSC,UPSC,ORG,0.4,0.0,en,1.0
 the New York Post's,the New York Post's,ORG,0.13068181818181818,0.0,en,1.0
 the U.S. House of Representatives',the U.S. House of Representatives',ORG,0.17424242424242423,0.0,en,1.0
-Google,Google,ORG,0.06818181818181818,0.0,en,1.0
+"Debs, Nehru, Mamdani","Debs, Nehru, Mamdani",ORG,0.0,0.0,en,1.0
 Kaligandaki Corridor Paves Ahead,Kaligandaki Corridor Paves Ahead,ORG,0.0,0.0,en,1.0
 Mustang,Mustang,ORG,0.03333333333333333,0.0,en,1.0
-"Debs, Nehru, Mamdani","Debs, Nehru, Mamdani",ORG,0.0,0.0,en,1.0
-Nepal Police,Nepal Police,ORG,0.09017857142857144,0.0,en,1.0
-The Narayangadh-Muglin road,The Narayangadh-Muglin road,ORG,0.11666666666666668,0.4,en,1.0
-Fianna Fáil,Fianna Fáil,ORG,-0.14166666666666664,0.0,en,1.0
-Netflix,Netflix,ORG,0.0,0.0,en,1.0
-Amazon Dumps Stock of Its Own Brand,Amazon Dumps Stock of Its Own Brand,ORG,0.24545454545454545,0.0,en,1.0
-Ring Alarm,Ring Alarm,ORG,-0.35000000000000003,0.0,en,1.0
-Amazon Dumps Stock of Its O… Home,Amazon Dumps Stock of Its O… Home,ORG,-0.11522727272727273,0.0,en,1.0
-Ring,Ring,ORG,0.0,0.0,en,1.0
-cl,cl,ORG,0.0,0.0,en,1.0
-Foota,Foota,ORG,0.0,0.0,en,1.0
-Mount Gibson,Mount Gibson,ORG,0.0,0.0,en,1.0
-Mount Gibson Iron,Mount Gibson Iron,ORG,-0.15555555555555559,0.0,en,1.0
-Business News,Business News,ORG,0.2,0.0,en,1.0
-Penan,Penan,ORG,0.25,0.0,en,1.0
-Connolly,Connolly,ORG,0.8,0.0,en,1.0
-Narayangadh-Muglin Road Reopens After Landslide:,Narayangadh-Muglin Road Reopens After Landslide:,ORG,0.6375,0.0,en,1.0
-Altinho,Altinho,ORG,-0.06125,0.3133333333333333,en,1.0
-"Bennett, Coleman &amp;","Bennett, Coleman &amp;",ORG,0.03333333333333333,0.0,en,1.0
-Times Syndication Service,Times Syndication Service,ORG,0.0,0.0,en,1.0
-the US National Hurricane Center,the US National Hurricane Center,ORG,0.09999999999999999,0.0,en,1.0
-National Hurricane Center,National Hurricane Center,ORG,0.09999999999999999,0.0,en,1.0
-"Penang Infrastructure, Transport","Penang Infrastructure, Transport",ORG,0.0,0.0,en,1.0
-NHC,NHC,ORG,-0.05,0.0,en,1.0
-KINGSTON,KINGSTON,ORG,-0.10833333333333334,0.0,en,1.0
-Time,Time,ORG,-0.10833333333333334,0.0,en,1.0
-CubaHundreds,CubaHundreds,ORG,-0.12222222222222223,0.0,en,1.0
-Catastrophic,Catastrophic,ORG,0.06666666666666665,0.0,en,1.0
-The White House,The White House,ORG,0.0,0.0,en,1.0
-geomyths atte,geomyths atte,ORG,0.0,0.0,en,1.0
-geomyths,geomyths,ORG,0.03333333333333333,0.0,en,1.0
-CBC,CBC,ORG,0.5,0.0,en,1.0
+SMR,SMR,ORG,0.036111111111111115,0.0,en,1.0
+NASA,NASA,ORG,0.4,0.0,en,1.0
+Health Ministry,Health Ministry,ORG,0.0,0.0,en,1.0
+Google,Google,ORG,0.06818181818181818,0.0,en,1.0
+Android,Android,ORG,0.0,0.0,en,1.0
+iOS,iOS,ORG,0.0,0.0,en,1.0
+Additi,Additi,ORG,0.19999999999999998,0.0,en,1.0
+L-G,L-G,ORG,0.0,0.0,en,1.0
+Britains Labour Party,Britains Labour Party,ORG,-0.051851851851851864,0.0,en,1.0
 Th…,Th…,ORG,0.11714285714285715,0.0,en,1.0
 The Security Ministry,The Security Ministry,ORG,0.0,0.0,en,1.0
-Fig.8,Fig.8,ORG,0.0,0.0,en,1.0
-The Associated Press,The Associated Press,ORG,0.0,0.0,en,1.0
-Mexico Need Food,Mexico Need Food,ORG,0.5,0.0,en,1.0
-Gonzal,Gonzal,ORG,0.0,0.0,en,1.0
-Republican Party,Republican Party,ORG,0.0,0.0,en,1.0
-GOP,GOP,ORG,0.061111111111111116,0.0,en,1.0
-The Party for Freedom,The Party for Freedom,ORG,0.0,0.0,en,1.0
+the Mahatma Gandhi National Rural Employment Guarantee Act,the Mahatma Gandhi National Rural Employment Guarantee Act,ORG,0.0,0.0,en,1.0
+SAR,SAR,ORG,-0.2,0.0,en,1.0
+searc,searc,ORG,0.0,0.0,en,1.0
 The Canada Energy Regulator,The Canada Energy Regulator,ORG,-0.012500000000000002,0.0,en,1.0
+The Party for Freedom,The Party for Freedom,ORG,0.0,0.0,en,1.0
+GOP,GOP,ORG,0.061111111111111116,0.0,en,1.0
+Jalan Sepadu 6,Jalan Sepadu 6,ORG,0.0,0.0,en,1.0
+Republican Party,Republican Party,ORG,0.0,0.0,en,1.0
+the Fire and Rescue Department,the Fire and Rescue Department,ORG,0.0,0.0,en,1.0
+Gonzal,Gonzal,ORG,0.0,0.0,en,1.0
+Perak Fire and Rescue Department,Perak Fire and Rescue Department,ORG,0.0,0.0,en,1.0
+Sinkholes,Sinkholes,ORG,0.18148148148148147,0.0,en,1.0
+Mexico Need Food,Mexico Need Food,ORG,0.5,0.0,en,1.0
+Fig.8,Fig.8,ORG,0.0,0.0,en,1.0
+the Strathcona Regional District,the Strathcona Regional District,ORG,0.0,0.0,en,1.0
+J&K,J&K,ORG,0.0,0.0,en,1.0
 TMZ,TMZ,ORG,0.0,0.0,en,1.0
-Frehley,Frehley,ORG,0.06818181818181818,0.25,en,1.0
+Dashavtar,Dashavtar,ORG,0.0,0.0,en,1.0
+Pixel,Pixel,ORG,0.8,0.0,en,1.0
+D-N.Y.,D-N.Y.,ORG,0.0,0.0,en,1.0
+C Java's,C Java's,ORG,0.0,0.0,en,1.0
+VAE,VAE,ORG,0.0,0.0,en,1.0
+"the Water, Sediment, Hazards, & Earth","the Water, Sediment, Hazards, & Earth",ORG,0.0,0.0,en,1.0
+CNN,CNN,ORG,0.0,0.0,en,1.0
+"the Water, Sediment, Hazards, &amp","the Water, Sediment, Hazards, &amp",ORG,0.19318181818181818,0.0,en,1.0
+"Claussen, Whole Foods","Claussen, Whole Foods",ORG,0.2,0.0,en,1.0
+NADAM,NADAM,ORG,0.0,0.0,en,1.0
 Rock Legends,Rock Legends,ORG,0.0,0.0,en,1.0
-CBS News',CBS News',ORG,0.0,0.0,en,1.0
-CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.0,0.0,en,1.0
-CBC News,CBC News,ORG,0.0,0.0,en,1.0
-Nationalist Movement Party,Nationalist Movement Party,ORG,0.0,0.0,en,1.0
 "ANKARA
 ","ANKARA
 ",ORG,0.0,0.0,en,1.0
-NADAM,NADAM,ORG,0.0,0.0,en,1.0
-CNN,CNN,ORG,0.0,0.0,en,1.0
-VAE,VAE,ORG,0.0,0.0,en,1.0
-iPhone,iPhone,ORG,0.0,0.0,en,1.0
-Antennagate,Antennagate,ORG,-0.5,0.0,en,1.0
-Navy,Navy,ORG,0.0,0.0,en,1.0
-Washington Monthly,Washington Monthly,ORG,0.19318181818181818,0.0,en,1.0
-Jalan Teluk Bahang,Jalan Teluk Bahang,ORG,-0.238,0.4625,en,1.0
-HETAUDA,HETAUDA,ORG,0.145,0.525,en,1.0
-CDO,CDO,ORG,0.0,0.0,en,1.0
--Tanzania,-Tanzania,ORG,-0.008333333333333338,0.0,en,1.0
-BP Highway Reopens,BP Highway Reopens,ORG,-0.28125,0.84375,en,1.0
-Kathmandu Good,Kathmandu Good,ORG,0.875,0.0,en,1.0
-Makawanpur,Makawanpur,ORG,0.03785714285714285,0.0,en,1.0
-Assoc,Assoc,ORG,0.0,0.0,en,1.0
-survivorsABC News Landslide,survivorsABC News Landslide,ORG,-0.016666666666666684,0.38,en,1.0
-ABC News,ABC News,ORG,0.0,0.0,en,1.0
-Prithvi Highway,Prithvi Highway,ORG,0.0,0.0,en,1.0
-the District Police Office,the District Police Office,ORG,-0.022222222222222216,0.0,en,1.0
-USGS,USGS,ORG,0.1,0.0,en,1.0
-Wicklow County Council,Wicklow County Council,ORG,0.225,0.0,en,1.0
-thousa,thousa,ORG,0.215,0.0,en,1.0
-Antimemes,Antimemes,ORG,1.0,0.0,en,1.0
-Fantasy Books,Fantasy Books,ORG,1.0,0.0,en,1.0
-Independent,Independent,ORG,0.0,0.0,en,1.0
-Erewhon Books,Erewhon Books,ORG,0.4787878787878787,0.0,en,1.0
-Villa Sepulveda,Villa Sepulveda,ORG,0.0,0.0,en,1.0
-Sherrill,Sherrill,ORG,0.1481818181818182,0.0,en,1.0
-CBS News,CBS News,ORG,0.1481818181818182,0.0,en,1.0
-CBS Elections Data Desk,CBS Elections Data Desk,ORG,0.13636363636363635,0.0,en,1.0
-the Bharatpur Road Division,the Bharatpur Road Division,ORG,0.0,0.0,en,1.0
-Narayangadh-Muglin Road Reopens,Narayangadh-Muglin Road Reopens,ORG,0.0,0.0,en,1.0
-Isra,Isra,ORG,0.175,0.0,en,1.0
-Interior,Interior,ORG,0.0,0.0,en,1.0
-PPC,PPC,ORG,0.1,0.0,en,1.0
-Pentagon,Pentagon,ORG,0.13333333333333333,0.0,en,1.0
-Public Power Corporation,Public Power Corporation,ORG,0.1,0.0,en,1.0
+Nationalist Movement Party,Nationalist Movement Party,ORG,0.0,0.0,en,1.0
+D2FLS-Net-S,D2FLS-Net-S,ORG,0.0,0.0,en,1.0
+CBC News,CBC News,ORG,0.0,0.0,en,1.0
+CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.0,0.0,en,1.0
+SDRF & F&ES,SDRF & F&ES,ORG,0.0,0.0,en,1.0
+CBS News',CBS News',ORG,0.0,0.0,en,1.0
+eli,eli,ORG,-0.1125,0.0,en,1.0
+Business News,Business News,ORG,0.2,0.0,en,1.0
+Chihuahua,Chihuahua,ORG,0.0,0.0,en,1.0
+NHANES,NHANES,ORG,0.0,0.0,en,1.0
 Fuerza Patria,Fuerza Patria,ORG,0.5,0.0,en,1.0
-Chitwan Police,Chitwan Police,ORG,0.1,0.0,en,1.0
-MuglinNarayangadh,MuglinNarayangadh,ORG,0.11666666666666668,0.5,en,1.0
 the Road Division Office,the Road Division Office,ORG,0.05,0.0,en,1.0
 BP Highway,BP Highway,ORG,0.0,0.0,en,1.0
 Chaukidanda,Chaukidanda,ORG,-0.08125,0.0,en,1.0
@@ -246,7 +196,83 @@ performatively,performatively,ORG,0.16666666666666666,0.0,en,1.0
 TOPSHOT,TOPSHOT,ORG,-0.125,0.0,en,1.0
 viole,viole,ORG,0.0,0.0,en,1.0
 Tanzanias,Tanzanias,ORG,-0.08,0.0,en,1.0
+Ring,Ring,ORG,0.0,0.0,en,1.0
 the electoral commission's,the electoral commission's,ORG,0.1,0.0,en,1.0
 Aussie,Aussie,ORG,0.13333333333333333,0.0,en,1.0
 Reeves,Reeves,ORG,0.13333333333333333,0.0,en,1.0
-PADANG,PADANG,ORG,-0.12000000000000002,0.0,en,1.0
+Pentagon,Pentagon,ORG,0.13333333333333333,0.0,en,1.0
+Chitwan Police,Chitwan Police,ORG,0.1,0.0,en,1.0
+Public Power Corporation,Public Power Corporation,ORG,0.1,0.0,en,1.0
+National Health and Nutrition Examination Survey,National Health and Nutrition Examination Survey,ORG,0.0,0.0,en,1.0
+PPC,PPC,ORG,0.1,0.0,en,1.0
+Penan,Penan,ORG,0.25,0.0,en,1.0
+Fianna Fáil,Fianna Fáil,ORG,-0.14166666666666664,0.0,en,1.0
+Connolly,Connolly,ORG,0.8,0.0,en,1.0
+Altinho,Altinho,ORG,-0.06125,0.3133333333333333,en,1.0
+"Bennett, Coleman &amp;","Bennett, Coleman &amp;",ORG,0.03333333333333333,0.0,en,1.0
+Times Syndication Service,Times Syndication Service,ORG,0.0,0.0,en,1.0
+the US National Hurricane Center,the US National Hurricane Center,ORG,0.09999999999999999,0.0,en,1.0
+National Hurricane Center,National Hurricane Center,ORG,0.09999999999999999,0.0,en,1.0
+"Penang Infrastructure, Transport","Penang Infrastructure, Transport",ORG,0.0,0.0,en,1.0
+NHC,NHC,ORG,-0.05,0.0,en,1.0
+KINGSTON,KINGSTON,ORG,-0.10833333333333334,0.0,en,1.0
+Time,Time,ORG,-0.10833333333333334,0.0,en,1.0
+Mount Gibson Iron,Mount Gibson Iron,ORG,-0.15555555555555559,0.0,en,1.0
+Mount Gibson,Mount Gibson,ORG,0.0,0.0,en,1.0
+Foota,Foota,ORG,0.0,0.0,en,1.0
+cl,cl,ORG,0.0,0.0,en,1.0
+CubaHundreds,CubaHundreds,ORG,-0.12222222222222223,0.0,en,1.0
+Catastrophic,Catastrophic,ORG,0.06666666666666665,0.0,en,1.0
+Navy,Navy,ORG,0.0,0.0,en,1.0
+Washington Monthly,Washington Monthly,ORG,0.19318181818181818,0.0,en,1.0
+Jalan Teluk Bahang,Jalan Teluk Bahang,ORG,-0.238,0.4625,en,1.0
+Interior,Interior,ORG,0.0,0.0,en,1.0
+Amazon Dumps Stock of Its O… Home,Amazon Dumps Stock of Its O… Home,ORG,-0.11522727272727273,0.0,en,1.0
+Isra,Isra,ORG,0.175,0.0,en,1.0
+CDO,CDO,ORG,0.0,0.0,en,1.0
+COP30 climate summit,COP30 climate summit,ORG,0.0,0.0,en,1.0
+United Nations,United Nations,ORG,0.3333333333333333,0.0,en,1.0
+Newsom,Newsom,ORG,0.0,0.0,en,1.0
+BELEM,BELEM,ORG,0.0,0.0,en,1.0
+Amazon,Amazon,ORG,0.0,0.0,en,1.0
+United Nations clima… Skip,United Nations clima… Skip,ORG,0.0,0.0,en,1.0
+Instagram,Instagram,ORG,0.25,0.0,en,1.0
+the Morris County Medical Examiner,the Morris County Medical Examiner,ORG,0.125,0.0,en,1.0
+Ne,Ne,ORG,0.3125,0.0,en,1.0
+The Autumn Budget,The Autumn Budget,ORG,0.25,0.0,en,1.0
+Nov.26,Nov.26,ORG,0.25,0.0,en,1.0
+Netflix,Netflix,ORG,0.0,0.0,en,1.0
+ABC News',ABC News',ORG,0.08484848484848484,0.0,en,1.0
+Danny New,Danny New,ORG,0.08484848484848484,0.0,en,1.0
+The White House,The White House,ORG,0.0,0.0,en,1.0
+CSDS,CSDS,ORG,0.0,0.0,en,1.0
+IST,IST,ORG,0.0,0.0,en,1.0
+Major League Baseball,Major League Baseball,ORG,0.165625,0.0,en,1.0
+the National League,the National League,ORG,0.0,0.0,en,1.0
+Starmer,Starmer,ORG,-0.30000000000000004,0.0,en,1.0
+Downing Street,Downing Street,ORG,-0.30000000000000004,0.0,en,1.0
+slidi,slidi,ORG,-0.1125,0.0,en,1.0
+PennDOT,PennDOT,ORG,-0.1125,0.0,en,1.0
+Narayangadh-Muglin Road Reopens After Landslide:,Narayangadh-Muglin Road Reopens After Landslide:,ORG,0.6375,0.0,en,1.0
+USGS,USGS,ORG,0.1,0.0,en,1.0
+-Tanzania,-Tanzania,ORG,-0.008333333333333338,0.0,en,1.0
+Ring Alarm,Ring Alarm,ORG,-0.35000000000000003,0.0,en,1.0
+Kathmandu Good,Kathmandu Good,ORG,0.875,0.0,en,1.0
+Makawanpur,Makawanpur,ORG,0.03785714285714285,0.0,en,1.0
+Assoc,Assoc,ORG,0.0,0.0,en,1.0
+Amazon Dumps Stock of Its Own Brand,Amazon Dumps Stock of Its Own Brand,ORG,0.24545454545454545,0.0,en,1.0
+ABC News,ABC News,ORG,0.0,0.0,en,1.0
+Prithvi Highway,Prithvi Highway,ORG,0.0,0.0,en,1.0
+the District Police Office,the District Police Office,ORG,-0.022222222222222216,0.0,en,1.0
+Wicklow County Council,Wicklow County Council,ORG,0.225,0.0,en,1.0
+Narayangadh-Muglin Road Reopens,Narayangadh-Muglin Road Reopens,ORG,0.0,0.0,en,1.0
+Nepal Police,Nepal Police,ORG,0.09017857142857144,0.0,en,1.0
+Antimemes,Antimemes,ORG,1.0,0.0,en,1.0
+Fantasy Books,Fantasy Books,ORG,1.0,0.0,en,1.0
+Independent,Independent,ORG,0.0,0.0,en,1.0
+Erewhon Books,Erewhon Books,ORG,0.4787878787878787,0.0,en,1.0
+Villa Sepulveda,Villa Sepulveda,ORG,0.0,0.0,en,1.0
+Sherrill,Sherrill,ORG,0.1481818181818182,0.0,en,1.0
+UPSC Key,UPSC Key,ORG,0.0,0.0,en,1.0
+CBS Elections Data Desk,CBS Elections Data Desk,ORG,0.13636363636363635,0.0,en,1.0
+CBS News,CBS News,ORG,0.1481818181818182,0.0,en,1.0
