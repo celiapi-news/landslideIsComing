@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'landslide protection',en,Adaptation,#0000ff,#0000ff,3,0.0554036653959149
 'rock fall',en,Hazard,#ff0000,#ff0000,3,0.0468692657782636
 'landslide salvage',en,Mitigation,#00ff00,#00ff00,1,0.0260326252647309
-'rockfall',en,Hazard,#ff0000,#ff0000,1,0.0213347509433737
+'rockfall',en,Hazard,#ff0000,#ff0000,1,0.020684808301867648
 'landslide charity',en,Mitigation,#00ff00,#00ff00,1,0.0061458017494579
 'rockfall protection',en,Adaptation,#0000ff,#0000ff,1,0.0025524347503018
 'landlide climate change',en,Causes,#00ffff,#00ffff,1,0.0019916521003635
