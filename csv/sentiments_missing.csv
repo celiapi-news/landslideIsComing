@@ -21,8 +21,8 @@ last week,last week,DATE,,,en,25.09999999999999
 Six,Six,CARDINAL,,,en,18.0
 days,days,DATE,,,en,17.900000000000002
 10,10,CARDINAL,,,en,17.200000000000003
-Two,Two,CARDINAL,,,en,17.1
 2024,2024,DATE,,,en,17.1
+Two,Two,CARDINAL,,,en,17.1
 One,One,CARDINAL,,,en,17.0
 17,17,CARDINAL,,,en,16.300000000000004
 2025,2025,CARDINAL,,,en,16.0
@@ -30,8 +30,8 @@ Sicilian,Sicilian,NORP,,,en,15.000000000000004
 four,four,CARDINAL,,,en,14.400000000000004
 countrys,countrys,NORP,,,en,14.200000000000003
 Democrat,Democrat,NORP,,,en,14.199999999999998
-hundreds,hundreds,CARDINAL,,,en,13.600000000000003
 More than 200,More than 200,CARDINAL,,,en,13.600000000000003
+hundreds,hundreds,CARDINAL,,,en,13.600000000000003
 today,today,DATE,,,en,13.0
 Nepali,Nepali,NORP,,,en,12.900000000000002
 2026,2026,DATE,,,en,12.700000000000001
@@ -664,11 +664,11 @@ October 30th,October 30th,DATE,,,en,1.0
 the morning,the morning,TIME,,,en,1.0
 "1,900-a","1,900-a",MONEY,,,en,1.0
 2.5 mile,2.5 mile,QUANTITY,,,en,1.0
+295 kilometres per hour,295 kilometres per hour,QUANTITY,,,en,1.0
 the century,the century,DATE,,,en,1.0
-77 per cent,77 per cent,MONEY,,,en,1.0
 landslideThe Guardian View Full Coverage,landslideThe Guardian View Full Coverage,FAC,,,en,1.0
 A year earlier,A year earlier,DATE,,,en,1.0
-295 kilometres per hour,295 kilometres per hour,QUANTITY,,,en,1.0
+77 per cent,77 per cent,MONEY,,,en,1.0
 Hait,Hait,PRODUCT,,,en,1.0
 Jamaicans,Jamaicans,NORP,,,en,1.0
 Keppetipola Police,Keppetipola Police,FAC,,,en,1.0
