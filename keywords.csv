@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'landslide',en,Hazard,#ff0000,#ff0000,3,0.07926840467810493
+'landslide',en,Hazard,#ff0000,#ff0000,3,0.0792684046781049
 'landslide road',en,Impacts,#ffff00,#ffff00,3,0.0708141541876692
 'landslide rain',en,Causes,#00ffff,#00ffff,3,0.0630098162932019
+'rockfall',en,Hazard,#ff0000,#ff0000,1,0.04969677043132566
 'rock fall',en,Hazard,#ff0000,#ff0000,3,0.0405974630844542
-'rockfall',en,Hazard,#ff0000,#ff0000,1,0.0333068601713075
 'landslide death',en,Impacts,#ffff00,#ffff00,2,0.0256707322213931
 'landslide protection',en,Adaptation,#0000ff,#0000ff,2,0.0233980495244706
 'landslide charity',en,Mitigation,#00ff00,#00ff00,1,0.0146203400372302
