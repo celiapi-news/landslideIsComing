@@ -130,9 +130,9 @@ the Prithvi Highway,the Prithvi Highway,FAC,,,en,7.200000000000001
 24,24,CARDINAL,,,en,6.9
 January,January,DATE,,,en,6.800000000000001
 Hundreds,Hundreds,CARDINAL,,,en,6.700000000000001
+sixth,sixth,ORDINAL,,,en,6.7
 15,15,CARDINAL,,,en,6.7
 Downing Street,Downing Street,WORK_OF_ART,,,en,6.7
-sixth,sixth,ORDINAL,,,en,6.7
 Australians,Australians,NORP,,,en,6.7
 1,1,CARDINAL,,,en,6.6000000000000005
 weeks,weeks,DATE,,,en,6.500000000000001
@@ -1574,9 +1574,9 @@ Almost a year ago,Almost a year ago,DATE,,,en,1.0
 the Trump years,the Trump years,DATE,,,en,1.0
 +12675,+12675,NORP,,,en,1.0
 295kmh,295kmh,QUANTITY,,,en,1.0
-295 kilometres per hour,295 kilometres per hour,QUANTITY,,,en,1.0
 the century,the century,DATE,,,en,1.0
 77 per cent,77 per cent,MONEY,,,en,1.0
+295 kilometres per hour,295 kilometres per hour,QUANTITY,,,en,1.0
 Hait,Hait,PRODUCT,,,en,1.0
 Jamaicans,Jamaicans,NORP,,,en,1.0
 At least one,At least one,CARDINAL,,,en,1.0
